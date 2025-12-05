@@ -6,10 +6,6 @@
 
 ---
 
-### 🔥 Github Contribution
-<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/73aa633e-e899-4982-ad61-7193440ab80f" />
-
-
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=trmuba2502&theme=radical)](https://git.io/streak-stats)
 
