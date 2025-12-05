@@ -10,7 +10,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trmuba2502&show_icons=true&theme=tokyonight)
 
 ```
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/trmuba2502/count.svg)
 ```
 
 ### 🔥 Streak Stats
