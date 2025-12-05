@@ -9,9 +9,7 @@
 ### 🔥 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trmuba2502&show_icons=true&theme=tokyonight)
 
-```
-![Visitor Count](https : //profile-counter.glitch.me/trmuba2502/count.svg)
-```
+![TR's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=trmuba2502)
 
 ### 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=trmuba2502&theme=radical)](https://git.io/streak-stats)
