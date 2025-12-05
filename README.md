@@ -10,7 +10,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trmuba2502&show_icons=true&theme=tokyonight)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=trmuba2502&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=trmuba2502&theme=radical)](https://git.io/streak-stats)
 
 ### 🔥 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trmuba2502&layout=compact&theme=tokyonight)
