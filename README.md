@@ -4,11 +4,6 @@ I am an Economics Analytics student fascinated by the story data tells about the
 
 ---
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=trmuba2502&theme=radical)](https://git.io/streak-stats)
-
----
-
 ### 📫 Connect with me
 
 <p>
