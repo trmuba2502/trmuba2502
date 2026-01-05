@@ -1,8 +1,6 @@
 # Hi, I'm Trang 👋
 
-🎓 Economics Analytics student  
-🔍 Interested in Data Science, Macroeconomics, and Forecasting  
-📊 Aspiring economic analyst (World Bank / IMF / UNDP path)
+I am an Economics Analytics student fascinated by the story data tells about the global economy. My work focuses on blending macroeconomics with data science to create accurate forecasts and actionable insights. My ultimate goal is to apply these skills on a global stage, driving positive change as an analyst for institutions like the UNDP or the World Bank.
 
 ---
 
